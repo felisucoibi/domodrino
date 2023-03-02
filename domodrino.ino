@@ -19,7 +19,7 @@
 
   Date:        5 February 2014 V. 1.0.5
  
-  Author:       Felix Moreno, http://www.casasolar.com
+  Author:       Felisuco, http://www.felisuco.com
 -------------------------------------------------------------------------------------*/
 
 // imporante se me acaban los 16Ks de sram al compilar 16.656 aunque diga que hay un maximo de 32.256
