@@ -1,6 +1,6 @@
 
 /*--------------------------------------------------------------------------------------------
-  Program:      DOMODRINO : OPEN SOURCE BOX FOR HOME AUTOMATION WITH ARDUINO www.casasolar.com
+  Program:      DOMODRINO : OPEN SOURCE BOX FOR HOME AUTOMATION WITH ARDUINO www.felisuco.com
 
   Description:  This program is part of a arduino proyect to make a box of sensors and relays
                 to be controlled by a home automation system. The objective is replace commercial
